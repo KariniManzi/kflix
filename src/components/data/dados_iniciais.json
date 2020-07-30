@@ -1,0 +1,165 @@
+{
+  "categorias": [
+    {
+      "titulo": "Desenvolvimento Web",
+      "cor": "#0087CB",
+      "videos": [
+        {
+          "titulo": "3 Técnicas Que Eu Uso Para Aprender a Programar Qualquer Coisa",
+          "url": "https://www.youtube.com/watch?v=ZtMzB5CoekE&t=565s"
+        },
+        {
+          "titulo": "Curso de HTML 2020",
+          "url": "https://www.youtube.com/watch?v=F2FuWBbrkDU&list=PL4iwH9RF8xHnU9L-1AQPOx6rtLXjoQzTV"
+        },
+        {
+          "titulo": "Speedrun: Do Zero ao React | Como fazer um React e aprender a ideia do Virtual DOM na prática",
+          "url": "https://www.youtube.com/watch?v=5MzOCxSWrrc"
+        },
+        {
+          "titulo": "Criando um site do zero com: HTML, CSS e JS ",
+          "url": "https://www.youtube.com/watch?v=qPYCnebQQ6U&list=PL4iwH9RF8xHmjxVNJcyNSkVDYNUo6r2BM"
+        },
+        {
+          "titulo": "Estilização Imersão React 01 - Estilos globais, reset e Menu",
+          "url": "https://www.youtube.com/watch?v=nDxp3YEpR1E&list=PLbcp5RKTX5wNF34qxISyWY6kignmhBQRT"
+        },
+        {
+          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+        },
+
+        {
+          "titulo": "Base para aprender os frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        }        
+      ]
+    },
+    {
+      "titulo": "Aprendendo tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    },
+    {
+      "titulo": "Músicas",
+      "cor": "#FFC33C",
+      "videos": [
+        {
+          "titulo": "Kell Smith-Era uma vez",
+          "url": "https://www.youtube.com/watch?v=xJNKT9HAXRc&list=PL_Q15fKxrBb7C163SjzBIPYMrGcNzb_-X"
+        },
+        {
+          "titulo": "Zé Ramalho-Sinônimos",
+          "url": "https://www.youtube.com/watch?v=FUz0a2cl_RM&list=PL_Q15fKxrBb7C163SjzBIPYMrGcNzb_-X&index=2"
+        },
+        {
+          "titulo": "Giulia Be-Menina solta",
+          "url": "https://www.youtube.com/watch?v=vz9XHsctOtc"
+        },
+        {
+          "titulo": "Tones and I-Dance Monkey",
+          "url": "https://www.youtube.com/watch?v=q0hyYWKXF0Q"
+        }, 
+        {
+          "titulo": "Ed Sheeran-Perfect",
+          "url": "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
+        }
+      ]
+    },
+    {
+      "titulo": "Séries",
+      "cor": "#83AA30",
+      "videos": [
+        {
+          "titulo": "GOOD GIRLS",
+          "url": "https://www.youtube.com/watch?v=kbjIaPzODs0"
+        },
+        {
+          "titulo": "Desejo Sombrio",
+          "url": "https://www.youtube.com/watch?v=O_BCjmoZias"
+        },
+        {
+          "titulo": "Brooklyn nine-nine",
+          "url": "https://www.youtube.com/watch?v=sEOuJ4z5aTc"
+        },
+        {
+          "titulo": "Expresso do Amanhã",
+          "url": "https://www.youtube.com/watch?v=zstihByJe9I"
+        },
+          {
+            "titulo": "Ozark",
+            "url": "https://www.youtube.com/watch?v=5hAXVqrljbs"
+          }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "#DE593A",
+      "videos": [
+        {
+          "titulo": "John Carter",
+          "url": "https://www.youtube.com/watch?v=Hil8YwE-lc8"
+        },
+        {
+          "titulo": "O menino que descobriu o vento",
+          "url": "https://www.youtube.com/watch?v=j37O0R-bSOE"
+        },
+        {
+          "titulo": "Mulher Maravilha 1984",
+          "url": "https://www.youtube.com/watch?v=8XrFAXykgoc"
+        },
+        {
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "videos": [
+        {
+          "titulo": "Crash Bandicoot",
+          "url": "https://www.youtube.com/watch?v=JnEzz745zCo"
+        },
+        {
+          "titulo": "Crash Team Racing Nitro-Fueled",
+          "url": "https://www.youtube.com/watch?v=dr2BCMRk_xc"
+        },
+        {
+          "titulo": "Horizon Zero Dawn",
+          "url": "https://www.youtube.com/watch?v=Fkg5UVTsKCE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Gears 5",
+          "url": "https://www.youtube.com/watch?v=h35_KOgslkM"
+        }
+      ]
+    }
+  ]
+}
